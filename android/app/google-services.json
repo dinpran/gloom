@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891055251320",
+    "project_id": "gloom-49ccb",
+    "storage_bucket": "gloom-49ccb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891055251320:android:2874681ad9aad58725f28d",
+        "android_client_info": {
+          "package_name": "com.DinPran.gloom.gloom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLrx9rkZr6xkf6D1f7IKrFsvbGBVVncEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
